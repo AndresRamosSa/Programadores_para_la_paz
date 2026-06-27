@@ -1,2 +1,0 @@
-Saber usar la terminal es importante para un desarrollador porque permite interactuar 
-directamente con el sistema operativo de manera más rápida y eficiente. 
